@@ -1,8 +1,11 @@
 <!--
 <h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2> --> 
-# Bem-vindo(a)
+# Bem-vindo(a) ao meu Github, me chamo Gianluca e estou entrando no mundo da programação. 
 
-<img src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" width="100">
+Atualmente estou apredendo JavaScript e fazendo o curso CS50, pretendo aprender Haskell e Rust.
+
+
+<img src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" width="200">
 
 
 <div style="margin-top: 3rem; display: flex; align-items: flex-start;">
