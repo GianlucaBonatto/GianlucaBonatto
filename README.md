@@ -1,8 +1,8 @@
 <!--
 <h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2> --> 
-# Bem-vindo(a) ao meu Github, meu nome é Gianluca e comecei a programar recentemente. 
+# Bem-vindo(a) ao meu Github, me chamo Gianluca e comecei a programar recentemente. 
 
-Atualmente estou apredendo JavaScript e fazendo o curso CS50, pretendo aprender Haskell e Rust.
+Atualmente estou apredendo JavaScript e fazendo o curso CS50, sei um pouco de Haskell e pretendo aprender Rust.
 
 
 <img src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" width="200">
