@@ -33,4 +33,6 @@ Atualmente estou apredendo JavaScript e fazendo o curso CS50, sei um pouco de Ha
 </div>
 <a href="https://wakatime.com/@018e4dad-599d-4658-bcd6-6e67c5696782"><img src="https://wakatime.com/badge/user/018e4dad-599d-4658-bcd6-6e67c5696782.svg" alt="Total time coded since Mar 17 2024" /></a>
 
+![snake animation](./snake.svg)
+
 
