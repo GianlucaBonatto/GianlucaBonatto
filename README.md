@@ -24,9 +24,9 @@ Atualmente estou apredendo JavaScript e fazendo o curso CS50, sei um pouco de Ha
 
 <div style="justify-content: space-between; display: grid; grid-auto-flow: column;">
 <div style="display: flex; align-items: center;">
-   <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
-   <img src="https://user-images.githubusercontent.com/52257001/233252292-11fcb2db-e7fb-430e-b438-e3ac9a994c2d.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
-   <img src="https://user-images.githubusercontent.com/52257001/233252444-2cf0a784-da71-4e90-a7c8-79e031f84dab.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
+    <img src="https://img.icons8.com/color/50/000000/javascript--v2.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
+   <img src="https://img.icons8.com/color/48/haskell.png" alt="haskell" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px" />
+   <img src="https://img.icons8.com/color/48/rust-programming-language.png" alt="rust-programming-language" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
    <img src="https://img.icons8.com/color/50/000000/css3.png" style="padding-top:2rem; margin-right: 1rem; width: 48px; height: 48px"/>
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" style="padding-top:2rem; margin-right: 1rem; max-width: 48px; max-height: 48px ">
 </div>
