@@ -1,8 +1,6 @@
 <!--
 <h2 style= "font-size: 3.125rem; color: #bd93f9; font-weight: bold; padding-top: 2rem;"> Hello there! <img src="https://dkrn4sk0rn31v.cloudfront.net/2018/05/29070459/pixelart-octocat.gif" width="50"></h2> --> 
-# Bem-vindo(a) ao meu Github, me chamo Gianluca e comecei a programar recentemente. 
-
-Atualmente faço o "curso" CS50 e estou apredendo Java, tenho um pouco de conhecimento em CSS, HTML e na nas linguagens de programação: Haskell, JavaScript e Rust. 
+# Apreciador de Góticas Rabudas e de Garotas com cabelo Colorido e probelmas paternos.
 
 
 <img src="https://media.tenor.com/s8uZEeyOAeQAAAAi/strawhats-one-piece.gif" width="200">
